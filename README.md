@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+hello 大家好，我是江南一点雨，欢迎大家关注我的同名微信公众号！
 <!--
 **lenve/lenve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
